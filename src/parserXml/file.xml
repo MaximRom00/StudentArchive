@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Server>
+    <Users>
+        <User usersTypes="Administrator">
+            <login>Ivan</login>
+            <password>12345</password>
+        </User>
+        <User usersTypes="User">
+            <login>Alex</login>
+            <password>hello</password>
+        </User>
+        <User usersTypes="User">
+            <login>Max</login>
+            <password>abc123</password>
+        </User>
+        <User usersTypes="Administrator">
+            <login>Oleg</login>
+            <password>oop</password>
+        </User>
+    </Users>
+</Server>
